@@ -1,0 +1,23 @@
+# ninja log v5
+26	1688	1712951783290077038	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-2.13.2.tar.xz	9086954d1f1883fd
+0	25	1712951781627117747	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	621538d9895f2935
+1715	1734	1712951783335943552	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	a70a720606872549
+1715	1734	1712951783335943552	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	a70a720606872549
+1688	1702	1712951783303958836	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	3db70c8fa1dc308d
+26	1688	1712951783290077038	freetype-populate-prefix/src/freetype-2.13.2.tar.xz	9086954d1f1883fd
+1688	1702	1712951783303958836	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	3db70c8fa1dc308d
+0	25	1712951781627117747	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	621538d9895f2935
+26	1688	1712951783290077038	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	9086954d1f1883fd
+1702	1715	1712951783316668990	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	16b97db9c5caac9
+26	1688	1712951783290077038	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	9086954d1f1883fd
+1777	1795	1712951783397453910	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	e0ed18e532eed5ce
+1777	1795	1712951783397453910	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	e0ed18e532eed5ce
+1734	1749	1712951783350627166	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	78de68103697c786
+1734	1749	1712951783350627166	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	78de68103697c786
+1749	1763	1712951783364458465	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	5c79c77858f0ea73
+1749	1763	1712951783364458465	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	5c79c77858f0ea73
+1763	1777	1712951783378711004	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	c0c8c1fd069d68d0
+1763	1777	1712951783378711004	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	c0c8c1fd069d68d0
+1777	1795	1712951783397453910	CMakeFiles/freetype-populate-complete	e0ed18e532eed5ce
+1702	1715	1712951783316668990	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	16b97db9c5caac9
+1777	1795	1712951783397453910	/Users/owen/CLionProjects/M4OEP-omilke/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	e0ed18e532eed5ce
