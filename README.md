@@ -4,8 +4,8 @@
 There are no additional installations to run this program.
 <h2>Program Summary:</h2>
 <h4>Program Description:</h4>
-My program is a virtual target practice game similar to other online aim training programs and inspired by the aim trainer module found at https://humanbenchmark.com.
 
+My program is a virtual target practice game similar to other online aim training programs and inspired by the aim trainer module found at https://humanbenchmark.com.
 The purpose of my aim training program is to provide the user with a simplified environment to improve their computer mouse speed and accuracy in a fun, competitive way.
 
 The program consists of two main modes, normal mode, and challenge mode.
