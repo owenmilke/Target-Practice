@@ -5,11 +5,14 @@ There are no additional installations to run this program.
 <h2>Program Summary:</h2>
 <h4>Program Description:</h4>
 My program is a virtual target practice game similar to other online aim training programs and inspired by the aim trainer module found at https://humanbenchmark.com.
+
 The purpose of my aim training program is to provide the user with a simplified environment to improve their computer mouse speed and accuracy in a fun, competitive way.
-The program consist of two main modes, normal mode, and challenge mode.
+
+The program consists of two main modes, normal mode, and challenge mode.
 In normal mode, a total of 20 targets spawn at random positions onscreen and the user has as long as they need to successfully click them all.
 In challenge mode, a total of 30 targets spawn at random positions onscreen, with each target also quickly moving either left or right across the screen.
 Each game mode also tracks the time it takes the user to click all targets, as well as the total number of times the user clicks their mouse in order to determine their click accuracy.
+
 In each game mode, the game is completed by successfully clicking the total amount of targets, with each target spawning only after the previous one has been clicked.
 Once the user successfully clicks all the targets in either mode, they will be shown the time it took them to complete the game, their overall click accuracy, and will be prompted to return to the main menu.
 In addition to each of the game modes, the user's personal best times for each mode will be shown on the main menu once they have played a game, and it will update each time they beat that time.
